@@ -15,6 +15,18 @@ por mi capacidad para trabajar en equipos colaborativos, adaptarme, diseñar int
 
 ---
 
+## Proyectos Realizados
+
+***Galindo y Asociados***: 
+
+**Página de Reclutamiento:**
+https://soygyaip/gyaseguros.mx
+
+**Página de Seguros:**
+https://soygyaip/gyaseguros.mx/nuestros-seguros
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 | Área | Tecnologías / Herramientas |
@@ -79,4 +91,4 @@ por mi capacidad para trabajar en equipos colaborativos, adaptarme, diseñar int
 ## 🌐 Idiomas
 
 - **Español:** Nativo
-- **Inglés:** Técnico (Lectura de documentación, redacción y código)
+- **Inglés:** B1
