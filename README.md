@@ -15,15 +15,22 @@ por mi capacidad para trabajar en equipos colaborativos, adaptarme, diseñar int
 
 ---
 
-## Proyectos Realizados
+## Proyectos Destacados
 
-***Galindo y Asociados***: 
+### 💼 Galindo y Asociados
+Desarrollo de plataforma web corporativa con panel de administración dinámico para la gestión de contenido en tiempo real.
 
-**Página de Reclutamiento:**
-https://soygyaip/gyaseguros.mx
+* **Página de Reclutamiento:** [Ver sitio](https://soygyaip/gyaseguros.mx)
+* **Sección de Seguros:** [Ver sitio](https://soygyaip/gyaseguros.mx/nuestros-seguros)
+* **Key Features:** Contenido 100% editable, administración de roles y diseño responsivo adaptado a la marca.
 
-**Página de Seguros:**
-https://soygyaip/gyaseguros.mx/nuestros-seguros
+---
+
+### 🌐 Cliente Freelance — Sector Asegurador
+Diseño e implementación de *Landing Pages* enfocadas en la conversión y captación de clientes para un emprendedor del sector de seguros y finanzas.
+
+* **Plataforma de Cursos Online:** [Ver sitio](https://angelcaballero.com.mx)
+* **Key Features:** Integración de oferta educativa, optimización de carga y estructura orientada a conversión.
 
 ---
 
