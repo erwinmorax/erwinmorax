@@ -34,6 +34,14 @@ Diseño e implementación de *Landing Pages* enfocadas en la conversión y capta
 
 ---
 
+### 📦 Sistema Administrativo para Gestión de Materiales — INPROSI
+Desarrollo Full Stack de un sistema integral a medida para la optimización, control de inventario y análisis de datos de una microempresa.
+
+- **Estado:** Sistema privado (Despliegue y uso interno).
+- **Key Features:** Módulos de inventario, gestión de productos, reportes analíticos y arquitectura basada en documentación técnica (diagramas UML, modelado de DB y prototipado UI/UX).
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 | Área | Tecnologías / Herramientas |
