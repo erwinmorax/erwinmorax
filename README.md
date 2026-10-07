@@ -20,8 +20,8 @@ por mi capacidad para trabajar en equipos colaborativos, adaptarme, diseñar int
 ### 💼 Galindo y Asociados
 Desarrollo de plataforma web corporativa con panel de administración dinámico para la gestión de contenido en tiempo real.
 
-* **Página de Reclutamiento:** [Ver sitio](https://soygyaip/gyaseguros.mx)
-* **Sección de Seguros:** [Ver sitio](https://soygyaip/gyaseguros.mx/nuestros-seguros)
+* **Página de Reclutamiento:** [Ver sitio](https://soygyaip.gyaseguros.mx)
+* **Sección de Seguros:** [Ver sitio](https://soygyaip.gyaseguros.mx/nuestros-seguros)
 * **Key Features:** Contenido 100% editable, administración de roles y diseño responsivo adaptado a la marca.
 
 ---
