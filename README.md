@@ -15,6 +15,22 @@ por mi capacidad para trabajar en equipos colaborativos, adaptarme, diseñar int
 
 ---
 
+## 🎓 Educación
+
+- **Ingeniería en Gestión y Desarrollo de Software** (Egresado / En trámite de título)  
+  *Universidad Tecnológica de Querétaro* | Ene 2025 – Ago 2026
+- **TSU en Desarrollo de Software Multiplataforma**  
+  *Universidad Tecnológica de Querétaro* | Ene 2023 – Dic 2024
+
+---
+
+## 🌐 Idiomas
+
+- **Español:** Nativo
+- **Inglés:** B1
+
+---
+
 ## Proyectos Destacados
 
 ### 💼 Galindo y Asociados
@@ -51,7 +67,7 @@ Desarrollo Full Stack de un sistema integral a medida para la optimización, con
 | **Backend** | Node.js, Express, CodeIgniter, Django, Spring Boot |
 | **Bases de Datos** | MySQL, MariaDB, MongoDB |
 | **DevOps & Cloud** | Git, GitHub Actions (CI/CD), Firebase Hosting, GoDaddy DNS |
-| **Protocolos & APIs** | REST APIs, MQTT, Postman, Google Drive API |
+| **Protocolos & APIs** | REST, MQTT |
 
 ---
 
@@ -69,7 +85,7 @@ Desarrollo Full Stack de un sistema integral a medida para la optimización, con
 *Galindo y Asociados*
 - **Gestión Centralizada & API:** Implementación de la **Google Drive API** para la recepción, organización y almacenamiento automático de documentación enviada desde formularios web.
 - **Backend & Simulación Financiera:** Optimización del modelo de datos relacional en **MySQL** y desarrollo de un módulo de simulación orientado al cálculo y proyección de escenarios de retiro.
-- **Pipeline CI/CD:** Automatización del flujo de despliegue continuo hacia servidor mediante FTP integrando **GitHub Actions** y **Git**.
+- **Pipeline CI/CD:** Automatización del flujo de despliegue continuo hacia servidor mediante FTP integrando **GitHub Actions**.
 
 ---
 
@@ -89,21 +105,5 @@ Desarrollo Full Stack de un sistema integral a medida para la optimización, con
 
 ### 🛒 Plataforma de E-Commerce y Dashboards
 *Proyecto Escolar*
-- **Frontend Interactivo:** Desarrollo del catálogo de productos y flujo del carrito de compras en **React**, optimizando el renderizado de componentes e interactividad en la interfaz.
+- **Frontend:** Desarrollo del catálogo de productos y flujo del carrito de compras en **React**, optimizando el renderizado de componentes e interactividad en la interfaz.
 - **Especificaciones Técnicas:** Redacción de guías de diseño y documentación de requerimientos para el equipo de desarrollo.
-
----
-
-## 🎓 Educación
-
-- **Ingeniería en Gestión y Desarrollo de Software** (Egresado / En trámite de título)  
-  *Universidad Tecnológica de Querétaro* | Ene 2025 – Ago 2026
-- **TSU en Desarrollo de Software Multiplataforma**  
-  *Universidad Tecnológica de Querétaro* | Ene 2023 – Dic 2024
-
----
-
-## 🌐 Idiomas
-
-- **Español:** Nativo
-- **Inglés:** B1
