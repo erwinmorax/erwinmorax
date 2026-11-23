@@ -1,7 +1,8 @@
 # Erwin Javier Martínez Morales
 **Ingeniero en Gestión y Desarrollo de Software** | *Egresado - Titulo en Proceso*
 
-📍 Querétaro, México | ✉️ erwinmart17m@gmail.com | 📱 (+52) 446 107 9644  
+📍 Querétaro, México | ✉️ erwinmart17m@gmail.com | 📱 (+52) 446 107 9644
+
 - [**Linkedin**](https://www.linkedin.com/in/erwin-javier-martinez-morales-157333294/)
 - [**GitHub**](https://github.com/ErwinDev-17)
 
@@ -62,12 +63,12 @@ Desarrollo Full Stack de un sistema integral a medida para la optimización, con
 
 | Área | Tecnologías / Herramientas |
 | :--- | :--- |
-| **Lenguajes** | JavaScript (ES6+), Java, Python, PHP, C/C++ |
+| **Lenguajes** | JavaScript, Java, Python |
 | **Frontend** | React, Angular, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express, CodeIgniter, Django, Spring Boot |
+| **Backend** | Node.js, Express, Django, Spring Boot |
 | **Bases de Datos** | MySQL, MariaDB, MongoDB |
 | **DevOps & Cloud** | Git, GitHub Actions (CI/CD), Firebase Hosting, GoDaddy DNS |
-| **Protocolos & APIs** | REST, MQTT |
+| **Protocolos & APIs** | REST |
 
 ---
 
